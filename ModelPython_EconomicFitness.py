@@ -5,6 +5,10 @@ Created on Wed Dec  4 14:41:02 2024
 @author: GENESIS DELGADO
 """
 
+"""
+ECONOMIC FITNESS
+"""
+
 import numpy as np  # Biblioteca para manejar operaciones matemáticas y matrices.
 import pandas as pd  # Biblioteca para trabajar con datos tabulares y archivos Excel.
 
